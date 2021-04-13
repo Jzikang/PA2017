@@ -1,0 +1,1517 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"des",
+				"describe"
+			],
+			[
+				"So",
+				"Software"
+			],
+			[
+				"commn",
+				"communication"
+			],
+			[
+				"retrie",
+				"retrieve"
+			],
+			[
+				"acti",
+				"Activate"
+			],
+			[
+				"comm",
+				"command"
+			],
+			[
+				"com",
+				"command"
+			],
+			[
+				"s",
+				"security"
+			],
+			[
+				"generate",
+				"generated"
+			],
+			[
+				"lin",
+				"ling2"
+			],
+			[
+				"Anima",
+				"Animator"
+			],
+			[
+				"p",
+				"p_bot"
+			],
+			[
+				"De",
+				"Debug"
+			],
+			[
+				"Ve",
+				"Vector3"
+			],
+			[
+				"fl",
+				"floormask"
+			],
+			[
+				"move",
+				"Move"
+			],
+			[
+				"ge",
+				"gen_0"
+			],
+			[
+				"fr",
+				"frames"
+			],
+			[
+				"ton",
+				"tone"
+			],
+			[
+				"new",
+				"new_int"
+			],
+			[
+				"la",
+				"last"
+			],
+			[
+				"pre",
+				"pre_code"
+			],
+			[
+				"chi_",
+				"chi_item"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"chi_t",
+				"chi_talk"
+			],
+			[
+				"spl",
+				"fil_spl"
+			],
+			[
+				"tx",
+				"txt_sta"
+			],
+			[
+				"b",
+				"btn"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"get",
+				"get_bk"
+			],
+			[
+				"St",
+				"Staus_bar"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"tim",
+				"timep"
+			],
+			[
+				"bt",
+				"btn_global"
+			],
+			[
+				"addb",
+				"add_bit"
+			],
+			[
+				"ini",
+				"init_val"
+			],
+			[
+				"got",
+				"got_bits"
+			],
+			[
+				"re",
+				"recd_str"
+			],
+			[
+				"go",
+				"got_bits"
+			],
+			[
+				"add",
+				"add_mds"
+			],
+			[
+				"pa",
+				"paras"
+			],
+			[
+				"set",
+				"set_up"
+			],
+			[
+				"tras",
+				"transition\tproperty"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"bo",
+				"bolder\tfont-weight"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"ar",
+				"arg_show"
+			],
+			[
+				"las",
+				"last_show"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"char",
+				"charCodeAt"
+			],
+			[
+				"id",
+				"idx_mark"
+			],
+			[
+				"charC",
+				"charCode"
+			],
+			[
+				"charCode",
+				"charCodeAt"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"texa",
+				"text-align\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"read",
+				"read_db"
+			],
+			[
+				"dec",
+				"decode_file"
+			],
+			[
+				"Ter",
+				"TERVAL"
+			],
+			[
+				"se",
+				"seconds_per_sample"
+			],
+			[
+				"e",
+				"encode_byte"
+			],
+			[
+				"cal",
+				"class\tNew Class"
+			],
+			[
+				"fra",
+				"frate"
+			],
+			[
+				"gen",
+				"gener_mes"
+			],
+			[
+				"wf",
+				"wavefile"
+			],
+			[
+				"do",
+				"do_jpake"
+			],
+			[
+				"che1",
+				"check1_multi"
+			],
+			[
+				"lon",
+				"longestCommonPrefix"
+			],
+			[
+				"lo",
+				"longestPalindrome"
+			],
+			[
+				"nu",
+				"nums1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "/D/work/md/soul.md",
+			"file_size": 18,
+			"file_write_time": 132511050380162847,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/matex.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/myc++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/myc++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/myc++.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/matex.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"XeLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/matex.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/matex.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/matex.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/matex.sublime-build",
+					""
+				],
+				[
+					"Packages/User/py2.sublime-build",
+					""
+				],
+				[
+					"Packages/User/py2.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/py3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/py3.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/py2.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/py2.sublime-build",
+					""
+				],
+				[
+					"Packages/User/py2.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/py3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/py3.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/py3.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/py3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/py3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c++.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					"Run0"
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					"Run1"
+				]
+			],
+			[
+				"Packages/User/c++.sublime-build",
+				"Run0"
+			]
+		],
+		[
+			[
+				[
+					"Packages/VBScript/VBScript.sublime-build",
+					""
+				],
+				[
+					"Packages/VBScript/VBScript.sublime-build",
+					"Run with WScript"
+				],
+				[
+					"Packages/VBScript/VBScript.sublime-build",
+					"Debug with CScript"
+				]
+			],
+			[
+				"Packages/VBScript/VBScript.sublime-build",
+				"Run with WScript"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"quick",
+				"Build: Primary Quick Build"
+			],
+			[
+				"pdfl",
+				"Build With: LaTeX - PdfLaTeX"
+			],
+			[
+				"xe",
+				"Build With: LaTeX - XeLaTeX"
+			],
+			[
+				"xel",
+				"Build With: LaTeX - XeLaTeX"
+			],
+			[
+				"c++",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"ui c",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui:co",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui:",
+				"UI: Select Theme"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				":e - Revert"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"gpush",
+				"Git: Push"
+			],
+			[
+				"gc",
+				"Git: Commit"
+			],
+			[
+				"ga",
+				"Git: Add Current File"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"pare",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"gic",
+				"Git: Commit"
+			],
+			[
+				"gita",
+				"Git: Add Current File"
+			],
+			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
+				"git comm\t",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add All"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"gitad",
+				"Git: Add All"
+			],
+			[
+				"GITST",
+				"Git: Status"
+			],
+			[
+				"git:sta",
+				"Git: Status"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 197.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"man",
+			"help",
+			"pwd",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/work/md"
+	],
+	"file_history":
+	[
+		"/D/work/md/soul.md",
+		"/D/work/use/WinHotspot/WinHotspot.py",
+		"/D/Onedrive/work/tex/TMP/soal.tex",
+		"/D/Onedrive/work/tex/report/p-CommanderSong A Systematic Approach for Practical Adversarial Voice Recognition.tex",
+		"/D/Onedrive/work/tex/tools/work.py",
+		"/D/Onedrive/work/tex/Paper/4.MPC FL/main.tex",
+		"/D/Onedrive/work/tex/Paper/4.MPC FL/sec/DemoFL.tex",
+		"/D/Onedrive/work/tex/Paper/4.MPC FL/sec/exp.tex",
+		"/D/Onedrive/work/tex/Paper/4.MPC FL/sec/intro.tex",
+		"/D/Onedrive/work/tex/Paper/4.MPC FL/sec/related.tex",
+		"/D/Onedrive/work/tex/Paper/4.MPC FL/main.bib",
+		"/D/Onedrive/work/tex/Paper/4.MPC FL/sec/back.tex",
+		"/D/Onedrive/work/tex/Paper/0.Templates/IEEETransactions_LaTeX/IEEEtran/bare_jrnl.tex",
+		"/C/Users/A/Downloads/NIPS-2008-privacy-preserving-logistic-regression-Bibtex.bib",
+		"/C/Users/A/Zotero/storage/ZBFYMT6V/NIPS-2008-privacy-preserving-logistic-regression-Bibtex.bib",
+		"/C/Users/A/Downloads/scholar.enw",
+		"/D/Onedrive/work/tex/Paper/4.MPC FL/sec/eval.tex",
+		"/D/Onedrive/work/tex/Paper/4.MPC FL/sec/conc.tex",
+		"/C/Users/A/Zotero/storage/IYQN2TSN/main.bib",
+		"/D/Onedrive/work/tex/Other/gt.tex",
+		"/D/Onedrive/work/tex/Paper/4.MPC FL/sec/sofl.tex",
+		"/D/Onedrive/work/tex/Paper/0.Templates/IEEETransactions_LaTeX/Transactions-Bibliography/IEEEexample.bib",
+		"/D/Onedrive/work/tex/template/IEEETransactions_LaTeX/IEEEtran/bare_jrnl.tex",
+		"/D/Onedrive/work/tex/Paper/4.MPC FL/mpc.tex",
+		"/D/Onedrive/work/tex/Paper/Comsoc/db.bib",
+		"/D/Onedrive/work/tex/Paper/Comsoc/db.tex",
+		"/D/Onedrive/work/tex/Paper/Comsoc/tmp.tex",
+		"/C/Users/A/AppData/Roaming/Sublime Text 3/Packages/User/c++.sublime-build",
+		"/D/Onedrive/work/tex/Other/gt.bib",
+		"/D/Onedrive/work/tex/Slides/slide.mk",
+		"/D/Onedrive/work/tex/Slides/0.working.tex",
+		"/D/work/linux/tps/README.gnuclisp",
+		"/C/Users/A/Downloads/李鑫.md",
+		"/D/Onedrive/work/web/remo/ASC-LAB/member/ASC简历/辛正浩.md",
+		"/C/Users/A/AppData/Local/Temp/BNZ.5cfcd5104e7f7774/恽昕宇.md",
+		"/C/Users/A/Pictures/img/10.1007_3-540-48910-X_16.bib",
+		"/C/Users/A/Pictures/img/10.1007_978-3-642-01001-9_13.bib",
+		"/D/Onedrive/work/tex/Paper/Smart Lock ACM/lock.tex",
+		"/D/Onedrive/work/paper/com/Big Data Enabled EnergyEfficient Vehicular Edge Computing.pdf",
+		"/D/Onedrive/work/tex/Paper/Mag/sdb.tex",
+		"/D/Onedrive/work/tex/Slides/news.txt",
+		"/d/softwares/texlive/2018/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def",
+		"/D/Onedrive/work/tex/Other/zzz.tex",
+		"/D/Onedrive/work/tex/Other/Matrix1.tex",
+		"/D/Onedrive/work/tex/Paper/Smart Lock ACM/lock.bib",
+		"/D/work/ass/5/7/203班课本题/书本最后一次作业/书本195.2/main.cpp",
+		"/D/work/ass/5/7/203班课本题/书本最后一次作业/书本195.2/date.cpp",
+		"/D/work/ass/5/7/203班课本题/161820307第五章/习题2.cpp",
+		"/C/Users/A/Downloads/brief.tex",
+		"/C/Users/A/Documents/Tencent Files/1047073293/FileRecv/shiyan4.1.cpp",
+		"/D/Onedrive/work/tex/Paper/Smart Lock/lock.tex",
+		"/D/Onedrive/work/tex/Paper/Smart Lock/lock.bib",
+		"/D/Onedrive/work/tex/Paper/Smart Lock/lock.bbl",
+		"/D/Onedrive/work/paper/lock/10.1186_s13673-017-0087-4.bib",
+		"/D/Onedrive/work/paper/lock/S095965261631589X.bib",
+		"/D/Onedrive/work/tex/Paper/Audio Wave Trans/Audio-last/audio.tex",
+		"/C/Users/A/Downloads/IEEEtran/README",
+		"/C/Users/A/Downloads/IEEEtran/bare_adv.tex",
+		"/D/Onedrive/work/tex/Paper/Audio Wave Trans/Audio-last/audio.bib",
+		"/D/Onedrive/work/paper/reply_3.txt",
+		"/D/Onedrive/work/paper/reply_2.txt",
+		"/D/Onedrive/work/paper/reply_1.txt",
+		"/C/Users/A/Downloads/S0167739X18311257.bib",
+		"/D/Onedrive/work/tex/Paper/Audio Wave Trans/Audio-last/reply.txt",
+		"/D/Onedrive/work/paper/reply(1).txt",
+		"/D/Onedrive/work/matrix.md",
+		"/D/Onedrive/work/tex/Paper/0.Templates/acmart-master/samples/sample-acmsmall.tex",
+		"/C/Users/A/Downloads/S0007681315000373.bib",
+		"/C/Users/A/AppData/Roaming/Sublime Text 3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/C/Users/A/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/A/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/D/Onedrive/work/tex/Paper/Smart Lock ACM/[no file]",
+		"/C/Users/A/Downloads/the-current-state-of-access-control-for-smart-devices-in-homes.bib",
+		"/C/Users/A/Downloads/10.1186_s13673-017-0087-4.bib",
+		"/C/Users/A/Downloads/sensors-v18-i06_20181226.bib",
+		"/D/Onedrive/work/tex/Other/test.tex",
+		"/D/Onedrive/work/tex/Paper/0.Templates/acmart-master/acmart.bib",
+		"/D/Onedrive/work/tex/Paper/0.Templates/acmart-master/README",
+		"/D/Onedrive/work/tex/Paper/Audio Ye/audio_2.1.tex",
+		"/D/Onedrive/work/tex/Paper/MDPI_template/template.tex",
+		"/D/Onedrive/work/tex/Paper/Audio-last/audio.tex",
+		"/D/Onedrive/work/tex/Paper/Audio-last/audio.bib",
+		"/d/Onedrive/work/tex/Paper/Audio-last/audio.tex",
+		"/D/Onedrive/Pictures/10.1007_s00145-015-9224-2.bib",
+		"/D/Onedrive/work/tex/Paper/Audio-last/Definitions/mdpi.cls",
+		"/C/Users/A/AppData/Roaming/Sublime Text 3/Packages/LaTeXing/Default.sublime-keymap",
+		"/C/Users/A/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/Default (Windows).sublime-keymap",
+		"/C/Users/A/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Onedrive/Pictures/10.1007_978-3-642-17697-5_10.bib",
+		"/D/Onedrive/work/tex/Paper/Audio Wave Trans/audio.tex",
+		"/D/Onedrive/work/tex/Paper/Audio2/new.tex",
+		"/D/Onedrive/work/tex/Paper/Audio2/audio.bib",
+		"/D/Onedrive/work/tex/Paper/MDPI_template/audio.tex",
+		"/D/Onedrive/work/tex/Paper/MDPI_template/template.bib",
+		"/D/Onedrive/work/tex/Paper/MDPI_template/Definitions/mdpi.cls",
+		"/D/Onedrive/work/tex/Paper/MDPI_template/Definitions/template.tex",
+		"/D/Onedrive/work/tex/Paper/Audio2/audio_2.1.tex",
+		"/d/softwares/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty",
+		"/d/Onedrive/work/tex/Paper/MDPI_template/template.tex",
+		"/D/Onedrive/work/tex/Paper/Audio Ye/vresion_1.1.tex",
+		"/D/Onedrive/work/tex/Paper/Audio3/vresion_1.1.tex",
+		"/D/Onedrive/work/tex/Slides/Already/DICE.tex",
+		"/D/Onedrive/work/tex/Other/Matrix2.tex",
+		"/D/Onedrive/work/tex/Other/zzz.bib",
+		"/D/Onedrive/work/tex/Other/Template.tex",
+		"/D/Onedrive/work/tex/Other/TeX reports the error was in file",
+		"/D/Onedrive/work/tex/tools/Readme.md",
+		"/D/Onedrive/work/tex/Paper/Smart Lock/Next.txt",
+		"/D/Onedrive/work/tex/Paper/Audio2/修改意见.txt",
+		"/D/Onedrive/work/tex/Paper/Smart Lock/img/DGC.png",
+		"/D/Onedrive/work/tex/Slides/Already/smart lock draft.tex",
+		"/D/Onedrive/work/tex/Slides/Ato/dpm.make",
+		"/D/Onedrive/work/tex/Slides/Ato/ins.mk",
+		"/D/Onedrive/work/tex/Audio Wave Trans/audio.tex",
+		"/D/Onedrive/work/tex/Audio Wave Trans/audio0.1.tex",
+		"/D/Onedrive/work/tex/Slides/Already/superman.tex",
+		"/D/Onedrive/work/tex/Slides/Superman.tex",
+		"/D/Onedrive/work/tex/Slides/ad1.tex",
+		"/D/Onedrive/work/tex/Slides/Already/segt.tex",
+		"/D/Onedrive/work/tex/Slides/A_working.vrb",
+		"/D/Onedrive/work/tex/Slides/segt.tex",
+		"/D/Onedrive/work/tex/Slides/ppt.tex",
+		"/D/Onedrive/work/tex/Slides/ppt.mk",
+		"/D/Onedrive/work/tex/ppt/ppt.tex",
+		"/C/Users/A/AppData/Roaming/Sublime Text 3/Packages/User/matex.sublime-build",
+		"/C/Users/A/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXing.sublime-settings",
+		"/D/Onedrive/work/tex/ppt/game.tex",
+		"/D/Onedrive/work/tex/other/test.tex"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/work/md/soul.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"is_init_dirty_state": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 89.0
+	},
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.autopep8":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 149.0
+	},
+	"output.git-commit":
+	{
+		"height": 162.0
+	},
+	"output.git-push":
+	{
+		"height": 162.0
+	},
+	"output.latextools":
+	{
+		"height": 162.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "md.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test.te",
+				"tex\\other\\test.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "pl",
+		"selected_items":
+		[
+			[
+				"pl",
+				"D:\\Onedrive\\work\\Sublime_Projects\\py_local.sublime-project"
+			],
+			[
+				"con",
+				"D:\\work\\sub_pro\\contest.sublime-project"
+			],
+			[
+				"wg",
+				"D:\\work\\sub_pro\\webgame.sublime-project"
+			],
+			[
+				"weg",
+				"D:\\work\\sub_pro\\webgame.sublime-project"
+			],
+			[
+				"p",
+				"D:\\Onedrive\\work\\Sublime_Projects\\py_local.sublime-project"
+			],
+			[
+				"",
+				"D:\\Onedrive\\work\\Sublime_Projects\\py_local.sublime-project"
+			],
+			[
+				"pp",
+				"D:\\work\\sub_pro\\py-one.sublime-project"
+			],
+			[
+				"py",
+				"D:\\Onedrive\\work\\java\\py.sublime-workspace"
+			],
+			[
+				"poen",
+				"D:\\work\\sub_pro\\py-one.sublime-project"
+			],
+			[
+				"l",
+				"D:\\Onedrive\\work\\Sublime_Projects\\py_local.sublime-project"
+			],
+			[
+				"pol",
+				"D:\\Onedrive\\work\\Sublime_Projects\\py_local.sublime-project"
+			],
+			[
+				"pyl",
+				"D:\\Onedrive\\work\\Sublime_Projects\\py_local.sublime-project"
+			],
+			[
+				"lo",
+				"D:\\Onedrive\\work\\Sublime_Projects\\py_local.sublime-project"
+			],
+			[
+				"we",
+				"D:\\Onedrive\\work\\Sublime_Projects\\web.sublime-project"
+			],
+			[
+				"web",
+				"D:\\Onedrive\\work\\Sublime_Projects\\web.sublime-project"
+			],
+			[
+				"c",
+				"D:\\Onedrive\\work\\Sublime_Projects\\c++.sublime-project"
+			],
+			[
+				"wb",
+				"D:\\Onedrive\\work\\Sublime_Projects\\web.sublime-project"
+			],
+			[
+				"c+",
+				"D:\\Onedrive\\work\\Sublime_Projects\\c++.sublime-project"
+			],
+			[
+				"ja",
+				"D:\\Onedrive\\work\\Sublime_Projects\\javas.sublime-project"
+			],
+			[
+				"w",
+				"D:\\Onedrive\\work\\Sublime_Projects\\web.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Anis"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
